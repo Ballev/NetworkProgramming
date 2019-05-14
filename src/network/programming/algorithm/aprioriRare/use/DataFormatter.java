@@ -87,7 +87,7 @@ public class DataFormatter {
     }
 
     /**
-     * Formats the input file to be suitable for the VME algorithm and writes the
+     * Formats the input file to be suitable for the AprioriRare algorithm and writes the
      * result in another file
      *
      * @param fileName         the name of the input file
